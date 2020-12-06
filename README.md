@@ -13,5 +13,7 @@
 ### Part II
 ![part II](https://s3.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/Screen_Shot_2020-06-08_at_10.39.36_AM.png)
 
+You can download the Dojo icon [here](https://s3.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/dojo-icon.png).
+
 - [ ] Use the supplied HTML code snippets to recreate the images using flex.
 - [ ] (optional) Use google font Montserrat
