@@ -1,0 +1,22 @@
+h1{
+    color:white;
+    margin-left:125px;font-size:30px;
+}
+#frame{
+    background-color:rgb(93, 126, 196);
+}
+#tabs{
+    display:flex;color:white;list-style: none; margin-left:50px;margin-right:50px;
+}
+div{
+    display:flex; align-items:center; 
+}
+ul{
+list-style: none;  
+
+}
+a{
+    text-decoration: none;color:white;font-size:17px;margin-left:60px;margin-right:110px;
+}
+img{
+    width: 55px; height: 45px;margin-left:50px;
